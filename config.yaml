@@ -4,8 +4,6 @@ copyright: "Anthony <nobr>Nelzin-Santos</nobr> — Tous droits réservés"
 defaultContentLanguage: "fr"
 disableHugoGeneratorInject: true
 disableKinds:
-- "rss"
-- "sitemap"
 - "taxonomy"
 - "term"
 languageCode: "fr"

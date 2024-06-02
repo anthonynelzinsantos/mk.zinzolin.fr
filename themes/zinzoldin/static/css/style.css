@@ -1,0 +1,219 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+html {
+    -moz-text-size-adjust: none;
+    -webkit-text-size-adjust: none;
+    text-size-adjust: none;
+}
+
+body {
+    text-rendering: optimizeLegibility;
+    line-height: 1.5;
+    margin-block-end: 0;
+    min-height: 100vh;
+}
+
+blockquote,
+dl,
+dd,
+figure,
+h1,
+h2,
+h3,
+h4,
+p {
+    margin-block-end: 0;
+}
+
+button,
+input,
+select,
+textarea {
+    font-family: inherit;
+    font-size: inherit;
+}
+
+button,
+h1,
+h2,
+h3,
+h4,
+input,
+label {
+    line-height: 1.1;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-wrap: balance;
+}
+
+img,
+picture {
+    display: block;
+    max-width: 100%;
+}
+
+textarea:not([rows]) {
+    min-height: 10em;
+}
+
+ul[role='list'],
+ol[role='list'] {
+    list-style: none;
+}
+
+body {
+	background: #F2F2F2;
+	color: #222222;
+	font-family: -apple-system, BlinkMacSystemFont, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 1.6;
+	margin: 0 auto;
+	max-width: 60ch;
+	width: 94%;
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+}
+
+a:focus,
+a:hover {
+	color: #7843B4;
+	text-decoration-line: underline;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-size: 1em;
+	font-weight: normal;
+	margin: 0;
+}
+
+#header {
+	margin: 10em 0 5em 0;
+}
+
+#main blockquote {
+	border-left: 2px solid #7843B4;
+	color: #6E6E6E;
+	margin: 0 0 1em 0;
+	padding: 0 0 0 1em;
+}
+
+#main .description p {
+	color: #6E6E6E;
+	margin-block-start: 1em;
+	margin-block-end: 0;
+}
+
+#main h2 {
+	font-weight: 600;
+	margin-block-start: 5em;
+	margin-block-end: 1em;
+}
+
+#main .list {
+	display: flex;
+		gap: 1em;
+		justify-content: space-between;
+	margin: 0 0 1em 0;
+	width: 100%;
+}
+
+#main .list a {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+#main .list time {
+	color: #6E6E6E;
+	text-align: right;
+}
+
+#main p {
+	margin-block-start: 1em;
+	margin-block-end: 1em;
+}
+
+#main .time {
+	color: #6E6E6E;
+	display: block;
+	margin-block-start: .5em;
+	text-align: center;
+}
+
+#main .title {
+	font-size: 2em;
+	line-height: 1.25em;
+	text-align: center;
+}
+
+#main .content {
+	margin-block-start: 2.5em;
+}
+
+#main .content a[href]:after {
+	font-size: .9em;
+	line-height: 1;
+	vertical-align: super;
+}
+
+#main .content a[href]:not(:where(
+	[href^="#"],
+	[href^="/"]:not([href^="//"]),
+	[href*="//cm.zinzolin.fr"],
+	[href*="//localhost:1313"],
+)):after {
+	content: "➹";
+}
+
+#main .content a[href]:where(
+	[href*="//cm.zinzolin.fr"],
+	[href*="//localhost:1313"]
+):not(:where(
+	[href^="#"],
+	[href^="/"]:not([href^="//"])
+)):after {
+	content: "＊";
+}
+
+#main .content h3 {
+	font-style: italic;
+	margin-block-start: 2.5em;
+	margin-block-end: .5em;
+}
+
+#main .content hr {
+	background: #6E6E6E;
+	border: none;
+	display: block;
+	height: 2px;
+	margin: 2.5em auto;
+	width: 25%;
+}
+
+#footer {
+	font-size: .9em;
+	margin: 5em 0 10em 0;
+	text-align: center;
+}
+
+#footer .copyright {
+	color: #6E6E6E;
+}

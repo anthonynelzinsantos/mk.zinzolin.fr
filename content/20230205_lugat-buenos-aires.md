@@ -2,13 +2,10 @@
 title: "Café Lugat — Finca Buenos Aires Java"
 publishDate: 2023-02-05T08:00:00+02:00
 date: 2023-02-05T08:00:00+02:00
-signe:
-- "Anthony Nelzin-Santos"
 index:
 - "Café"
 - "Cafés Lugat"
 - "Nicaragua"
-colour: "brown"
 slug: lugat-buenos-aires
 ---
 

@@ -2,13 +2,10 @@
 title: "La brûlerie de Bernay — Mélange SL"
 publishDate: 2021-12-26T08:00:00+01:00
 date: 2021-12-26T08:00:00+01:00
-signe:
-- "Anthony Nelzin-Santos"
 index:
 - "Brésil"
 - "Café"
 - "La brûlerie de Bernay"
-colour: "brown"
 slug: bernay-melange-sl
 ---
 

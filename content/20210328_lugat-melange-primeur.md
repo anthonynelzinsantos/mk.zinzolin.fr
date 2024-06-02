@@ -1,15 +1,12 @@
 ---
 title: "Cafés Lugat — Mélange primeur"
 date: 2021-03-28T07:30:00+01:00
-signe:
-- "Anthony Nelzin-Santos"
 index:
 - "Café"
 - "Cafés Lugat"
 - "Colombie"
 - "Éthiopie"
 - "Guatemala"
-colour: "brown"
 slug: lugat-melange-primeur
 ---
 

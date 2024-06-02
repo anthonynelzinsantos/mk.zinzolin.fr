@@ -2,13 +2,10 @@
 title: "La brûlerie verte — Guatemala Acatenango"
 publishDate: 2022-08-14T08:00:00+02:00
 date: 2022-08-14T08:00:00+02:00
-signe:
-- "Anthony Nelzin-Santos"
 index:
 - "Café"
 - "Guatemala"
 - "La brûlerie verte"
-colour: "brown"
 slug: brulerie-verte-acatenango
 ---
 

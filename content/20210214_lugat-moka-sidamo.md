@@ -1,13 +1,10 @@
 ---
 title: "Cafés Lugat — Moka Sidamo Marabou"
 date: 2021-02-14T10:30:00+01:00
-signe:
-- "Anthony Nelzin-Santos"
 index:
 - "Café"
 - "Cafés Lugat"
 - "Éthiopie"
-colour: "brown"
 slug: lugat-moka-sidamo
 ---
 

@@ -2,14 +2,11 @@
 title: "Cafés Lugat — Le Dark’n Sweet"
 publishDate: 2022-05-29T08:00:00+02:00
 date: 2022-05-29T08:00:00+02:00
-signe:
-- "Anthony Nelzin-Santos"
 index:
 - "Café"
 - "Cafés Lugat"
 - "Colombie"
 - "Nicaragua"
-colour: "brown"
 slug: lugat-dark-sweet
 ---
 

@@ -2,15 +2,12 @@
 title: "Terres de café — The Full Monkeys"
 publishDate: 2022-11-27T08:00:00+02:00
 date: 2022-11-27T08:00:00+02:00
-signe:
-- "Anthony Nelzin-Santos"
 index:
 - "Brésil"
 - "Café"
 - "Éthiopie"
 - "Guatemala"
 - "Terres de café"
-colour: "brown"
 slug: terres-cafe-full-monkeys
 ---
 

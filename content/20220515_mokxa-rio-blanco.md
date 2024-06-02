@@ -2,13 +2,10 @@
 title: "Mokxa — Colombie Rio Blanco"
 publishDate: 2022-05-15T08:30:00+02:00
 date: 2022-05-15T08:30:00+02:00
-signe:
-- "Anthony Nelzin-Santos"
 index:
 - "Café"
 - "Colombie"
 - "Mokxa"
-colour: "brown"
 slug: mokxa-rio-blanco
 ---
 

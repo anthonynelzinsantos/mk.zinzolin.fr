@@ -1,15 +1,12 @@
 ---
 title: "Cafés Lugat — Le Blend Maison"
 date: 2020-12-12T15:00:00+01:00
-signe:
-- "Anthony Nelzin-Santos"
 index:
 - "Café"
 - "Cafés Lugat"
 - "Colombie"
 - "Éthiopie"
 - "Guatemala"
-colour: "brown"
 slug: lugat-blend-maison
 ---
 

@@ -1,13 +1,10 @@
 ---
 title: "Original Food — Kaffa Wildkaffee Mild"
 date: 2021-02-08T21:30:00+01:00
-signe:
-- "Anthony Nelzin-Santos"
 index:
 - "Café"
 - "Éthiopie"
 - "Original Food"
-colour: "brown"
 slug: original-food-kaffa
 ---
 

@@ -2,13 +2,10 @@
 title: "Cafés Béal — Mysore Plantation Shanivar Santhe"
 date: 2023-11-05T08:00:00+01:00
 publishDate: 2023-11-05T08:00:00+01:00
-signe:
-- "Anthony Nelzin-Santos"
 index:
 - "Café"
 - "Cafés Béal"
 - "Inde"
-colour: "brown"
 slug: beal-mysore
 ---
 

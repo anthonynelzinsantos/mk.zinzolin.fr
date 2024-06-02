@@ -2,13 +2,10 @@
 title: "Mokxa — Finca Aurora"
 date: 2023-09-17T08:00:00+02:00
 publishDate: 2023-09-17T08:00:00+02:00
-signe:
-- "Anthony Nelzin-Santos"
 index:
 - "Café"
 - "Mokxa"
 - "Pérou"
-colour: "brown"
 slug: mokxa-finca-aurora
 ---
 

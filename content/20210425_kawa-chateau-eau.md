@@ -1,14 +1,11 @@
 ---
 title: "Kawa — Château d’eau"
 date: 2021-04-25T20:30:00+02:00
-signe:
-- "Anthony Nelzin-Santos"
 index:
 - "Café"
 - "Colombie"
 - "Éthiopie"
 - "Kawa"
-colour: "brown"
 slug: kawa-chateau-eau
 ---
 

@@ -2,15 +2,12 @@
 title: "Mokxa — Melting Cup"
 date: 2023-09-10T08:00:00+02:00
 publishDate: 2023-09-10T08:00:00+02:00
-signe:
-- "Anthony Nelzin-Santos"
 index:
 - "Café"
 - "Colombie"
 - "Éthiopie"
 - "Honduras"
 - "Mokxa"
-colour: "brown"
 slug: mokxa-melting-cup
 ---
 

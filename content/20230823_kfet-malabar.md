@@ -2,13 +2,10 @@
 title: "KféT — Inde Malabar Moussonné"
 date: 2023-08-23T08:00:00+02:00
 publishDate: 2023-08-23T08:00:00+02:00
-signe:
-- "Anthony Nelzin-Santos"
 index:
 - "Café"
 - "Inde"
 - "KféT"
-colour: "brown"
 slug: kfet-malabar
 ---
 

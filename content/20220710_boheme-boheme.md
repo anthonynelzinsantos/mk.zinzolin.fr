@@ -2,8 +2,6 @@
 title: "La Bohème Café — Bohème"
 publishDate: 2022-07-10T08:00:00+02:00
 date: 2022-07-10T08:00:00+02:00
-signe:
-- "Anthony Nelzin-Santos"
 index:
 - "Brésil"
 - "Café"
@@ -11,7 +9,6 @@ index:
 - "Guatemala"
 - "La Bohème Café"
 - "Salvador"
-colour: "brown"
 slug: boheme-boheme
 ---
 

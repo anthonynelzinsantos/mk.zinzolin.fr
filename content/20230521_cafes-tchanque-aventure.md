@@ -2,8 +2,6 @@
 title: "Cafés Tchanqué — L’aventurier"
 date: 2023-05-21T08:00:00+02:00
 publishDate: 2023-05-21T08:00:00+02:00
-signe:
-- "Anthony Nelzin-Santos"
 index:
 - "Brésil"
 - "Café"
@@ -11,7 +9,6 @@ index:
 - "Éthiopie"
 - "Indonésie"
 - "Nicaragua"
-colour: "brown"
 slug: cafes-tchanque-aventure
 ---
 

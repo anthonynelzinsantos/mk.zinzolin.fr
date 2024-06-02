@@ -2,13 +2,10 @@
 title: "La brûlerie verte — Indonésie Sumatra"
 publishDate: 2022-07-31T08:00:00+02:00
 date: 2022-07-31T08:00:00+02:00
-signe:
-- "Anthony Nelzin-Santos"
 index:
 - "Café"
 - "Indonésie"
 - "La brûlerie verte"
-colour: "brown"
 slug: brulerie-verte-sumatra
 ---
 

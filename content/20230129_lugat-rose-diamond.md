@@ -2,13 +2,10 @@
 title: "Cafés Lugat — Rose Diamond"
 publishDate: 2023-01-29T08:00:00+02:00
 date: 2023-01-29T08:00:00+02:00
-signe:
-- "Anthony Nelzin-Santos"
 index:
 - "Brésil"
 - "Café"
 - "Cafés Lugat"
-colour: "brown"
 slug: lugat-rose-diamond
 ---
 

@@ -2,13 +2,10 @@
 title: "Cafés Lugat — Le Blend Moka"
 publishDate: 2022-01-30T08:00:00+01:00
 date: 2022-01-30T08:00:00+01:00
-signe:
-- "Anthony Nelzin-Santos"
 index:
 - "Café"
 - "Cafés Lugat"
 - "Éthiopie"
-colour: "brown"
 slug: lugat-blend-moka
 ---
 

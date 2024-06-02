@@ -2,13 +2,10 @@
 title: "Mokxa — Guatemala bio Quetzalito"
 publishDate: 2021-05-09T10:00:00+02:00
 date: 2021-12-22T12:30:00+01:00
-signe:
-- "Anthony Nelzin-Santos"
 index:
 - "Café"
 - "Guatemala"
 - "Mokxa"
-colour: "brown"
 slug: mokxa-guatemala-quetzalito
 ---
 

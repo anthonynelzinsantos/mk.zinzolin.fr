@@ -2,13 +2,10 @@
 title: "Cafés Lugat — Ninety Plus Estate Derar Ela"
 publishDate: 2023-02-12T08:00:00+02:00
 date: 2023-02-12T08:00:00+02:00
-signe:
-- "Anthony Nelzin-Santos"
 index:
 - "Café"
 - "Cafés Lugat"
 - "Panama"
-colour: "brown"
 slug: lugat-derar-ela
 ---
 

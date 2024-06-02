@@ -2,13 +2,10 @@
 title: "Cafés Lugat — Gakira Estate"
 publishDate: 2022-11-13T08:00:00+02:00
 date: 2022-11-13T08:00:00+02:00
-signe:
-- "Anthony Nelzin-Santos"
 index:
 - "Café"
 - "Cafés Lugat"
 - "Kenya"
-colour: "brown"
 slug: lugat-gakira-estate
 ---
 

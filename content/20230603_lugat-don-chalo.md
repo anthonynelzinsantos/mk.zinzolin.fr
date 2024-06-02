@@ -2,13 +2,10 @@
 title: "Café Lugat — Don Chalo"
 date: 2023-06-03T08:00:00+02:00
 publishDate: 2023-06-03T08:00:00+02:00
-signe:
-- "Anthony Nelzin-Santos"
 index:
 - "Café"
 - "Cafés Lugat"
 - "Panama"
-colour: "brown"
 slug: lugat-don-chalo
 ---
 

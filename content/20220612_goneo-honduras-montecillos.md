@@ -2,13 +2,10 @@
 title: "Cafés Gonéo — Honduras Montecillos"
 publishDate: 2022-06-12T08:00:00+02:00
 date: 2022-06-12T08:00:00+02:00
-signe:
-- "Anthony Nelzin-Santos"
 index:
 - "Café"
 - "Cafés Gonéo"
 - "Honduras"
-colour: "brown"
 slug: goneo-honduras-montecillos
 ---
 

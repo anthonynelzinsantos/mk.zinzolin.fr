@@ -2,13 +2,10 @@
 title: "Cafés Lugat — Mountains of the Moon"
 publishDate: 2022-06-26T08:00:00+02:00
 date: 2022-06-26T08:00:00+02:00
-signe:
-- "Anthony Nelzin-Santos"
 index:
 - "Café"
 - "Cafés Lugat"
 - "Ouganda"
-colour: "brown"
 slug: lugat-mountains-moon
 ---
 

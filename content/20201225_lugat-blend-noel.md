@@ -1,15 +1,12 @@
 ---
 title: "Cafés Lugat — Le Blend de Noël"
 date: 2020-12-25T16:30:00+01:00
-signe:
-- "Anthony Nelzin-Santos"
 index:
 - "Café"
 - "Cafés Lugat"
 - "Colombie"
 - "Costa Rica"
 - "Guatemala"
-colour: "brown"
 slug: lugat-blend-noel
 ---
 

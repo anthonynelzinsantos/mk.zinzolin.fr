@@ -2,13 +2,10 @@
 title: "Loutsa — El Fuego #8"
 publishDate: 2022-01-02T08:00:00+01:00
 date: 2022-01-02T08:00:00+01:00
-signe:
-- "Anthony Nelzin-Santos"
 index:
 - "Café"
 - "Costa Rica"
 - "Loutsa"
-colour: "brown"
 slug: loutsa-el-fuego-8
 ---
 

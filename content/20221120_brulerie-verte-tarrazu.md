@@ -2,13 +2,10 @@
 title: "La brûlerie verte — Costa Rica Tarrazú"
 publishDate: 2022-11-20T08:00:00+02:00
 date: 2022-11-20T08:00:00+02:00
-signe:
-- "Anthony Nelzin-Santos"
 index:
 - "Café"
 - "Costa Rica"
 - "La brûlerie verte"
-colour: "brown"
 slug: brulerie-verte-tarrazu
 ---
 

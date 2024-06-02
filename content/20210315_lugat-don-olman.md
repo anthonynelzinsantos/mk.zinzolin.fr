@@ -1,13 +1,10 @@
 ---
 title: "Cafés Lugat — Don Olman"
 date: 2021-03-15T07:30:00+01:00
-signe:
-- "Anthony Nelzin-Santos"
 index:
 - "Café"
 - "Cafés Lugat"
 - "Nicaragua"
-colour: "brown"
 slug: lugat-don-olman
 ---
 

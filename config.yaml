@@ -1,0 +1,19 @@
+baseURL: "https://mk.zinzolin.fr"
+canonifyURLs: true
+copyright: "Anthony <nobr>Nelzin-Santos</nobr> — Tous droits réservés"
+defaultContentLanguage: "fr"
+disableHugoGeneratorInject: true
+disableKinds:
+- "rss"
+- "sitemap"
+- "taxonomy"
+- "term"
+languageCode: "fr"
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+theme: "zinzoldin"
+timeZone: "Europe/Paris"
+timeout: 60s
+title: "Moka Moka"

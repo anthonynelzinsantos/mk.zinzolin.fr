@@ -1,8 +1,19 @@
 <!DOCTYPE html>
 <html lang="{{ $.Site.LanguageCode | default "fr" }}">
 	<head>
+		<meta charset="utf-8">
+	
 		<title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
-		{{ partial "head.html" . }}
+		
+		<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage }}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+		<meta name="viewport" content="width=device-width,minimum-scale=1">
+		
+		<link rel="stylesheet" href="{{ "/css/style.css" | absURL }}">
+		<link rel="shortcut icon" href="{{ "/images/favicon.ico" | absURL }}" type="image/x-icon" />
+		
+		{{ with .OutputFormats.Get "RSS" }}
+			<link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />
+		{{ end }}
 	</head>
 	
 	<body>

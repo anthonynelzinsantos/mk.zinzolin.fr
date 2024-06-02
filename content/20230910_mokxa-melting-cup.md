@@ -11,7 +11,7 @@ index:
 slug: mokxa-melting-cup
 ---
 
-Comme je reste sur une série d’échecs [avec les cafés de Moxka](https://zinzolin.fr/index/mokxa/ "Mokxa | Zinzolin"), la faiblesse de l’arôme à la sortie du sachet et la concentration de flocons de bale à la sortie du moulin ne m’inspiraient guère confiance. Le mélange de grains latino-américains et éthiopiens produits en filière biologique, torréfiés à mi-chemin entre le centre et le mitan de l’échelle des couleurs, produit pourtant une tasse onctueuse aux notes caramélisées.
+Comme je reste sur une série d’échecs avec les cafés de Moxka, la faiblesse de l’arôme à la sortie du sachet et la concentration de flocons de bale à la sortie du moulin ne m’inspiraient guère confiance. Le mélange de grains latino-américains et éthiopiens produits en filière biologique, torréfiés à mi-chemin entre le centre et le mitan de l’échelle des couleurs, produit pourtant une tasse onctueuse aux notes caramélisées.
 
 Ma perplexité devant chaque gorgée ne dit rien des capacités des torréfacteurs de la brulerie lyonnaise et tout des limites de mes papilles gustatives. Il m’a fallu quatre verseuses pour identifier cette alliance contradictoire du cacao tant dilué que l’on croirait boire du thé et de l’acidité tant arrondie que l’on croirait boire un *smoothie*. Le déclic est venu en passant devant les bouteilles de Lipton Ice Tea au supermarché, je peine décidément à reconnaitre les notes de fruits jaunes comme la pêche ou l’abricot.
 

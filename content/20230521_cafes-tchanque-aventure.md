@@ -12,7 +12,7 @@ index:
 slug: cafes-tchanque-aventure
 ---
 
-Un assemblage de cafés brésilien (Cerrado), éthiopien (Nekemte), indonésien (Sumatra) et nicaraguayen (Dipilto), rien que ça. La torréfaction fort inégale explique peut-être les problèmes rencontrés en tasse. L’attaque subtilement épicée pourrait évoquer les baies roses, mais donne plutôt l’impression d’avoir agité la verseuse dans la vague direction d’une poivrière, [pour paraphraser Noël Coward](https://zinzolin.fr/souvenirs/martini/ "Lire « La seule et unique manière de préparer un martini » sur Zinzolin"). Le fond puissamment musqué pourrait évoquer le cuir, mais donne plutôt l’impression d’avoir lavé la cafetière avec un produit pour faire briller le skaï. Si c’est un aventurier, alors c’est un mec à la peau burinée par le soleil du cap d’Agde avec la chemise en polyester ouverte jusqu’au nombril et la bouteille de Brut en bandoulière. Ce n’est pas (du tout) mon style.
+Un assemblage de cafés brésilien (Cerrado), éthiopien (Nekemte), indonésien (Sumatra) et nicaraguayen (Dipilto), rien que ça. La torréfaction fort inégale explique peut-être les problèmes rencontrés en tasse. L’attaque subtilement épicée pourrait évoquer les baies roses, mais donne plutôt l’impression d’avoir agité la verseuse dans la vague direction d’une poivrière, pour paraphraser Noël Coward. Le fond puissamment musqué pourrait évoquer le cuir, mais donne plutôt l’impression d’avoir lavé la cafetière avec un produit pour faire briller le skaï. Si c’est un aventurier, alors c’est un mec à la peau burinée par le soleil du cap d’Agde avec la chemise en polyester ouverte jusqu’au nombril et la bouteille de Brut en bandoulière. Ce n’est pas (du tout) mon style.
 
 ## Notes techniques
 

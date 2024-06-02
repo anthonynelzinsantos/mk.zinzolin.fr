@@ -9,7 +9,7 @@ index:
 slug: mokxa-rio-blanco
 ---
 
-Un arabica issu de la production biologique des fermes de [Café Granja La Esperanza](https://cafegranjalaesperanza.com), qui tire son nom d’une rivière traversant le sud du département colombien de Tolima. Torréfaction claire. Une tasse onctueuse, avec une pointe d’amertume fruitée qui rappelle le chocolat noir, et une finale sèche qui évoque l’amande grillée. Les deux cafetières suivantes sont moins convaincantes : le sucre roux monte au nez, mais le chocolat de première qualité laisse place au Nesquik coupé à l’eau. Décidément, les cafés Mokxa [me résistent](https://zinzolin.fr/tasses/mokxa-guatemala-quetzalito/).
+Un arabica issu de la production biologique des fermes de [Café Granja La Esperanza](https://cafegranjalaesperanza.com), qui tire son nom d’une rivière traversant le sud du département colombien de Tolima. Torréfaction claire. Une tasse onctueuse, avec une pointe d’amertume fruitée qui rappelle le chocolat noir, et une finale sèche qui évoque l’amande grillée. Les deux cafetières suivantes sont moins convaincantes : le sucre roux monte au nez, mais le chocolat de première qualité laisse place au Nesquik coupé à l’eau. Décidément, les cafés Mokxa [me résistent](https://mk.zinzolin.fr/mokxa-guatemala-quetzalito/).
 
 ## Notes techniques
 

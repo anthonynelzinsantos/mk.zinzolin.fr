@@ -9,7 +9,7 @@ index:
 slug: lugat-don-chalo
 ---
 
-Un « grand cru » produit par Gonzalo Batista, plus connu sous le nom de Don Chalo, à la frontière entre le Panama et le Costa Rica. Quelque chose entre la pêche (pour le sucre ensoleillé) et la prune (pour la douce acidité) se dégage de la tasse, mais c’est peut-être parce que je viens de finir mon troisième pot de l’excellente confiture de pêche de vigne de la ferme aux Mille fruits[^1]. Une pointe d’amande grillée conclut la gorgée onctueuse, et le filtre semble avoir été mouillé d’une goutte de liqueur d’anis avant d’avoir été jeté au compost. [Avec un ratio de 18:1](https://zinzolin.fr/souvenirs/dose-cafe/ "Vite, ma dose (de café) | Zinzolin"), le sucre caramélise, la prune tourne à l’orange et la tasse est plus claire.
+Un « grand cru » produit par Gonzalo Batista, plus connu sous le nom de Don Chalo, à la frontière entre le Panama et le Costa Rica. Quelque chose entre la pêche (pour le sucre ensoleillé) et la prune (pour la douce acidité) se dégage de la tasse, mais c’est peut-être parce que je viens de finir mon troisième pot de l’excellente confiture de pêche de vigne de la ferme aux Mille fruits[^1]. Une pointe d’amande grillée conclut la gorgée onctueuse, et le filtre semble avoir été mouillé d’une goutte de liqueur d’anis avant d’avoir été jeté au compost. [Avec un ratio de 18:1](https://mk.zinzolin.fr/dose-cafe/ "Vite, ma dose (de café) | Moka Moka"), le sucre caramélise, la prune tourne à l’orange et la tasse est plus claire.
 
 ## Notes techniques
 
